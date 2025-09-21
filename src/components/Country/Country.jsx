@@ -3,7 +3,6 @@ import './Country.css';
 
 const Country = ({ country, handleVisitedCountries, handleVisitedFlag }) => {
     const [visited, setVisited] = useState(false);
-    // console.log(country.area.area)
 
     const handleVisited = () => {
         // basic system
@@ -40,10 +39,3 @@ const Country = ({ country, handleVisitedCountries, handleVisitedFlag }) => {
 };
 
 export default Country;
-
-
-/**
- * 1. inline css (style object)
- * 2. 
- * 
-*/

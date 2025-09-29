@@ -6,10 +6,8 @@ It shows each country’s flag, name, capital, region, and population in a clean
 ---
 
 ## Features
-- **Country List** – Browse all countries with flag, name, capital, region, and population  
-- **Search & Filter** – Find countries by name or region  
-- **Mark as Visited** – Keep track of countries you have visited  
-- **Responsive Design** – Works seamlessly on mobile and desktop  
+- **Country List** – Browse all countries with flag, name, capital, region, and population 
+- **Mark as Visited** – Keep track of countries you have visited   
 - **Built with React** – Learn component-based architecture and state management  
 - **API Integration** – Fetch live data from the REST Countries API  
 
@@ -30,4 +28,4 @@ It shows each country’s flag, name, capital, region, and population in a clean
 ---
 
 ## Purpose
-The project is designed to practice **React fundamentals**, **API integration**, and **responsive web development**, while creating a fun, interactive country explorer app.  
+The project is designed to practice **React fundamentals**, **API integration** while creating a fun, interactive country explorer app.  
